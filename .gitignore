@@ -1,0 +1,3 @@
+## 忽略node-module/
+node-module/
+_book/
